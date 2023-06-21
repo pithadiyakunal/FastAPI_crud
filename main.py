@@ -77,22 +77,3 @@ def delete_item(item_id:int):
     db.delete(find_item)
     db.commit()
     return find_item
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-    
-  
